@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.classpath" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/.idea" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/.project" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/.settings" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/README.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/SuperMario 0.3.9.iml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bin" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mdImg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src" charset="GBK" />
+  </component>
+</project>
